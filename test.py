@@ -6,3 +6,4 @@ def normalize(name):
 L1 = ['a','b','c']
 L2 = list(map(normalize,L1))
 print(L2)
+print(L1)
